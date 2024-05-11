@@ -68,24 +68,24 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 
 ## 7 - Buscar a quantidade de filmes lançadas no ano, agrupando por ano, ordenando pela duracao em ordem decrescente
 
-![Exercicio 7](Imagens/7.png)
+![Exercicio 7](imagens/7.png)
 
 ## 8 - Buscar os Atores do gênero masculino, retornando o PrimeiroNome, UltimoNome
 
-![Exercicio 8](Imagens/8.png)
+![Exercicio 8](imagens/8.png)
 
 ## 9 - Buscar os Atores do gênero feminino, retornando o PrimeiroNome, UltimoNome, e ordenando pelo PrimeiroNome
 
-![Exercicio 9](Imagens/9.png)
+![Exercicio 9](imagens/9.png)
 
 ## 10 - Buscar o nome do filme e o gênero
 
-![Exercicio 10](Imagens/10.png)
+![Exercicio 10](imagens/10.png)
 
 ## 11 - Buscar o nome do filme e o gênero do tipo "Mistério"
 
-![Exercicio 11](Imagens/11.png)
+![Exercicio 11](imagens/11.png)
 
 ## 12 - Buscar o nome do filme e os atores, trazendo o PrimeiroNome, UltimoNome e seu Papel
 
-![Exercicio 12](Imagens/12.png)
+![Exercicio 12](imagens/12.png)
